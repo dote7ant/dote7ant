@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Antony
 
 ## 💫 About Me
 I'm currently working on automation for an ongoing solar analysis project using Python and Tableau.
