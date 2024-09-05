@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Antony
 
 ## 💫 About Me
-I'm currently working on automation for an ongoing solar analysis project using Python and Tableau.
+I’m spearheading automation for a comprehensive solar energy analysis project, utilizing Python and Tableau to streamline data collection, visualization, and forecasting processes. I aim to optimize energy efficiency by leveraging cutting-edge technology for dynamic reporting and insights.
 
 ## 🚀 Tech Stack
 
@@ -37,6 +37,7 @@ I'm currently working on automation for an ongoing solar analysis project using 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -51,6 +52,14 @@ I'm currently working on automation for an ongoing solar analysis project using 
 ![Seaborn](https://img.shields.io/badge/seaborn-%2380AAFF.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23323232.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### Text Processing & NLP
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23121011.svg?style=for-the-badge&logo=beautiful-soup&logoColor=white)
+![Octoparse](https://img.shields.io/badge/Octoparse-%230066CC.svg?style=for-the-badge&logo=octoparse&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![Polyglot](https://img.shields.io/badge/Polyglot-%23FF6F00.svg?style=for-the-badge&logo=polyglot&logoColor=white)
 
 ### DevOps & Monitoring
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -116,4 +125,3 @@ I'm currently working on automation for an ongoing solar analysis project using 
 [![Profile Views](https://visitcount.itsvg.in/api?id=dote7ant&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
-
