@@ -38,6 +38,11 @@ I'm currently working on automation for an ongoing solar analysis project using 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Identity & Access Management
+![HID IAM](https://img.shields.io/badge/HID%20IAM-%23FF6B35.svg?style=for-the-badge&logo=security&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,6 +65,9 @@ I'm currently working on automation for an ongoing solar analysis project using 
 ![NLTK](https://img.shields.io/badge/NLTK-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![Polyglot](https://img.shields.io/badge/Polyglot-%23FF6F00.svg?style=for-the-badge&logo=polyglot&logoColor=white)
+
+### File Storage & Collaboration
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 ### DevOps & Monitoring
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
